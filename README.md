@@ -35,6 +35,12 @@ Based on RaphielGang's [Telegram-Paperplane](https://github.com/RaphielGang/Tele
 
 Easy way to get STRING_SESSION.
 
+<h3 align="center">Klik Tombol di Bawah ini untuk Deploy di Heroku</h3>
+<h3>Deploy to Heroku </h3>
+<div>
+    <a href="https://heroku.com/deploy"><img src="https://www.herokucdn.com/deploy/button.svg"></a>
+</div>
+
 ### Run on repl.it
 
 [![Run repl.it](https://img.shields.io/badge/run-string__session.py-blue?style=for-the-badge&logo=repl.it)](https://replit.com/@KeselekPermen/UserButt)
